@@ -1,0 +1,9 @@
+.global-nav-list {
+    padding: 0;
+}
+
+.global-nav-link {
+    display: inline-block;
+    list-style-type: none;
+    padding-right: 5px;
+}
